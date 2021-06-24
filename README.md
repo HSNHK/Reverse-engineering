@@ -8,6 +8,22 @@
 
 <strong>A set of tools for software reverse engineering.</strong><br>
 <i>In the following tables, you can find the tools you need according to the heading.</i>
+* [Reverse Engineering](https://github.com/HSNHK/Reverse-engineering)
+  * [Debugging](#-debugging)
+  * [Disassemblers](#-disassemblers)
+  * [Android](#-android)
+  * [Hex Editors](#-hex-editors)
+  * [Binary Format](#-binary-format)
+  * [Binary Analysis](#-binary-analysis)
+  * [Bytecode Analysis](#-bytecode-analysis)
+  * [Dynamic Analysis](#-dynamic-analysis)
+  * [Document Analysis](#-document-analysis)
+  * [Scripting](#-scripting)
+  * [Mac Decrypt](#mac-decrypt)
+  * [📔 Reverse Engineering Books](#-reverse-engineering-books)
+  * [📎 Target and Practice](#-target-and-practice)
+
+
 ## ⚙ Debugging
 <i>Debugging Tools</i>
 
@@ -129,7 +145,7 @@
 | **`onehawt IDA Plugin List`** | A list of IDA Plugins. | [github](https://github.com/onethawt/idaplugins-list) |
 | **`pefile`** | pefile is a multi-platform Python module to parse and work with Portable Executable (PE) files. Most of the information contained in the PE file headers is accessible, as well as all the sections' details and data. | [github](https://github.com/erocarrera/pefile) |
 
-## Mac Decrypt
+## 💻 Mac Decrypt
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | **`Cerbero Profiler`** | While this PoC is about static analysis, it’s very different than applying a packer to a malware. | [Download](https://cerbero-blog.com/?p=1311) |
