@@ -19,7 +19,7 @@
   * [Dynamic Analysis](#-dynamic-analysis)
   * [Document Analysis](#-document-analysis)
   * [Scripting](#-scripting)
-  * [Mac Decrypt](#mac-decrypt)
+  * [Mac Decrypt](#-mac-decrypt)
   * [📔 Reverse Engineering Books](#-reverse-engineering-books)
   * [📎 Target and Practice](#-target-and-practice)
 
@@ -38,7 +38,7 @@
 | **`lldb`** | LLDB is a next generation, high-performance debugger. It is built as a set of reusable components which highly leverage existing libraries in the larger LLVM Project, such as the Clang expression parser and LLVM disassembler. | [Download](http://lldb.llvm.org/) |
 | **`qira`** | All state is tracked while a program is running, so you can debug in the past. | [Download](http://qira.me/) |
 | **`unicorn`** | Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86). | [github](https://github.com/unicorn-engine/unicorn) |
-
+| **`Immunity Debugger`** | Immunity Debugger's interfaces include the GUI and a command line. The command line is always available at the bottom of the GUI. It allows the user to type shortcuts as if they were in a typical text-based debugger, such as WinDBG or GDB. Immunity has implemented aliases to ensure that your WinDBG users do not have to be retrained and will get the full productivity boost that comes from the best debugger interface on the market. | [Download](https://www.immunityinc.com/products/debugger/) |
 ## 🔩 Disassemblers
 <i>Disassemblers</i>
 
