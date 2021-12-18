@@ -101,6 +101,7 @@
 | **`dnSpy`** | dnSpy is a debugger and .NET assembly editor. | [github](https://github.com/dnSpy/dnSpy) |
 | **`Bytecode Viewer`** | SIX DIFFERENT JAVA DECOMPILERS, TWO BYTECODE EDITORS, A JAVA COMPILER,PLUGINS, SEARCHING, SUPPORTS LOADING FROM CLASSES, JARS, ANDROID APKS AND MORE. | [Download](https://bytecodeviewer.com/) |
 | **`JPEXS Free Flash Decompiler`** | Opensource flash SWF decompiler and editor. | [github](https://github.com/jindrapetrik/jpexs-decompiler) |
+| **`JD Project`** | The “Java Decompiler project” aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions. JD-GUI is a standalone graphical utility that displays Java source codes of “.class” files. You can browse the reconstructed source code with the JD-GUI for instant access to methods and fields. JD-Eclipse is a plug-in for the Eclipse platform. It allows you to display all the Java sources during your debugging process, even if you do not have them all. JD-Core is a library that reconstructs Java source code from one or more “.class” files. JD-Core may be used to recover lost source code and explore the source of Java runtime libraries. New features of Java 5, such as annotations, generics or type “enum”, are supported. JD-GUI and JD-Eclipse include JD-Core library. JD-Core, JD-GUI & JD-Eclipse are open source projects released under the GPLv3 License. | [Download](http://java-decompiler.github.io/) | 
 
 ## 🔨 Dynamic Analysis
 <i>Dynamic Analysis Tools</i>
