@@ -61,6 +61,18 @@
 | **`dex2jar`** | Tools to work with android .dex and java .class files. | [github](https://github.com/pxb1988/dex2jar) |
 | **`IDA Pro`** | IDA Pro as a disassembler is capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic representation (assembly language). | [Download](https://hex-rays.com/ida-pro/) |
 | **`JaDx`** | Dex to Java decompiler. | [github](https://github.com/skylot/jadx) |
+| **`APKinspector`** | APKinspector is a powerful GUI tool for analysts to analyze the Android applications. | [github](https://github.com/honeynet/apkinspector/) |
+| **`objection`** | 📱 objection - runtime mobile exploration | [github](https://github.com/sensepost/objection) |
+| **`Sign.jar`** | Sign.jar automatically signs an apk with the Android test certificate. | [github](https://github.com/appium-boneyard/sign) |
+| **`FindSecurityBugs`** | FindSecurityBugs is a extension for FindBugs which include security rules for Java applications. | [Download](http://findbugs.sourceforge.net/) |
+| **`Quick Android Review Kit (Qark)`** | Tool to look for several security related Android application vulnerabilities | [github](https://github.com/linkedin/qark) |
+| **`AndroBugs Framework`** | AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows. | [github](https://github.com/AndroBugs/AndroBugs_Framework) |
+| **`Simplify`** | Tool for de-obfuscating android package into Classes.dex which can be use Dex2jar and JD-GUI to extract contents of dex file. | [github](https://github.com/CalebFenton/simplify) |
+| **`Android backup extractor`** | Utility to extract and repack Android backups created with adb backup (ICS+). More info about adb backup here. | [github](https://github.com/nelenkov/android-backup-extractor) |
+| **`Xposed framework`** | Use this forum to chat about xposed framework and modules to modify your device without flashing a custom ROM | [Download](https://forum.xda-developers.com/f/xposed-general.3094/) |
+| **`AndBug`** | AndBug is a debugger targeting the Android platform’s Dalvik virtual machine intended for reverse engineers and developers. | [github](https://github.com/swdunlop/AndBug) |
+| **`Introspy-Android`** | Blackbox tool to help understand what an Android application is doing at runtime and assist in the identification of potential security issues. | [github](https://github.com/iSECPartners/Introspy-Android) |
+| **`android-ssl-bypass`** | This is an Android debugging tool that can be used for bypassing SSL, even when certificate pinning is implemented, as well as other debugging tasks. The tool runs as an interactive console. | [github](https://github.com/iSECPartners/android-ssl-bypass) |
 
 ## 🗄 Hex Editors
 <i>Hex Editors</i>
