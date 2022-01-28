@@ -1,12 +1,13 @@
-# Reverse Engineering [![HSNHK - Reverse-engineering](https://img.shields.io/static/v1?label=HSNHK&message=Reverse-engineering&color=blue&logo=github)](https://github.com/HSNHK/Reverse-engineering)
+# Reverse Engineering 
+[![HSNHK - Reverse-engineering](https://img.shields.io/static/v1?label=HSNHK&message=Reverse-engineering&color=blue&logo=github)](https://github.com/HSNHK/Reverse-engineering)
 [![stars - Reverse-engineering](https://img.shields.io/github/stars/HSNHK/Reverse-engineering?style=social)](https://github.com/HSNHK/Reverse-engineering)
 [![forks - Reverse-engineering](https://img.shields.io/github/forks/HSNHK/Reverse-engineering?style=social)](https://github.com/HSNHK/Reverse-engineering)
 [![GitHub release](https://img.shields.io/github/release/HSNHK/Reverse-engineering?include_prereleases=&sort=semver)](https://github.com/HSNHK/Reverse-engineering/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - Reverse-engineering](https://img.shields.io/github/issues/HSNHK/Reverse-engineering)](https://github.com/HSNHK/Reverse-engineering/issues)
 
-
 <strong>A set of tools for software reverse engineering.</strong><br>
+<a href="#license"><img align="right"  src="resources/images/logo.png"></a>
 <i>In the following tables, you can find the tools you need according to the heading.</i>
 * [Reverse Engineering](https://github.com/HSNHK/Reverse-engineering)
   * [Debugging](#-debugging)
@@ -189,3 +190,6 @@
 | **`Malware Blacklist`** | [Description](http://www.malwareblacklist.com/showMDL.php) |
 | **`malwr.com`** | [Description](https://malwr.com/) |
 
+## License
+
+Released under [MIT](/LICENSE) by [@HSNHK](https://github.com/HSNHK).
